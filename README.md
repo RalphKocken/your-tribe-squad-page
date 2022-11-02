@@ -5,7 +5,7 @@ Alle visitekaartjes van squad B op één plek!
 
 Wie is nou wie? Klik op een puzzelstukje om er achter te komen!
 
-drs-puzzle.student.fdnd.nl/
+http://drs-puzzle.student.fdnd.nl/
 
 
 Op deze pagina is gebruik gemaakt van HTML en CSS. 
