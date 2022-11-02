@@ -3,6 +3,13 @@
 
 Alle visitekaartjes van squad B op één plek!
 
-Gebruikte tools: HTML - CSS
+Wie is nou wie? Klik op een puzzelstukje om er achter te komen!
+
+
+
+
+Op deze pagina is gebruik gemaakt van HTML en CSS. 
+
+
 
 
